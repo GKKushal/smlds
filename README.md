@@ -1,2 +1,0 @@
-# smlds
-lab mannual
