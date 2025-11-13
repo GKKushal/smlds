@@ -461,7 +461,7 @@ print(f"Expected number of visits (without chronic condition): {expected_visits_
 ```
 Expected number of visits (with chronic condition): 3.32
 Expected number of visits (without chronic condition): 2.01
-
+```
 ## 11. A researcher is comparing the calorie content of a new recipe to an old one. The old recipe has a mean of 200 calories. A sample of 40 servings of the new recipe has a mean of 190 calories and a standard deviation of 15 calories. Perform a one-sample t-test to determine if the new recipe has significantly fewer calories at the 5% significance level.
 
 **PROGRAM:**
