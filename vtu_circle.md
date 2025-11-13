@@ -1,4 +1,4 @@
-# VTU Circle PDF Content
+
 
 ## 1. A dataset contains the prices of houses in a city. Find the 25th and 75th percentiles and calculate the interquartile range (IQR). How does the IQR help in understanding the price variability?
 
